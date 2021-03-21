@@ -12,3 +12,4 @@ In all, this is a perhaps feeble atempt at providing a means of income [read: se
 - You can find the nodejs backend for Zora written in typescript [here](https://github.com/dapp-ideas/zora-backend)
 - You can find the ios app written in swift [here](https://github.com/dapp-ideas/ios-nft)
 - You can find the sample data being used in the app [here](https://github.com/dapp-ideas/about/tree/main/sample-data). They are written to be copy-pasted into the ios code. All the data is true in that they are real ideas, worthy of being minted.
+- You can see the video on [YouTube](https://www.youtube.com/watch?v=ySTeFo4TTOs). The [fallback](https://github.com/dapp-ideas/about/blob/main/video.mp4?raw=true) would make you download the file.
